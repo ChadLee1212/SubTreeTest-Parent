@@ -1,0 +1,3 @@
+[submodule "products/lcm1770/GUI"]
+	path = products/lcm1770/GUI
+	url = https://github.com/ChadLee1212/SubTreeTest-Child-1.git
